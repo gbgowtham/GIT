@@ -1,0 +1,4 @@
+git branch -m main 'GIT-INTERVIEW-Q&A'
+git fetch origin
+git branch -u origin/'GIT-INTERVIEW-Q&A' 'GIT-INTERVIEW-Q&A'
+git remote set-head origin -a
